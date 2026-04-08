@@ -1,3 +1,7 @@
+# Secrets / MCP config local
+.mcp.json
+.env
+
 # Miscellaneous
 *.class
 *.log

@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx --version)",
+      "Bash(npx -y figma-developer-mcp --version)",
+      "Bash(npm install:*)",
+      "Bash(where figma-developer-mcp:*)",
+      "mcp__figma__get_figma_data",
+      "mcp__figma__download_figma_images",
+      "Bash(flutter pub:*)",
+      "Bash(flutter analyze:*)",
+      "Bash(dart run:*)"
+    ]
+  }
+}
